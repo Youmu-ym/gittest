@@ -7,6 +7,6 @@ package com.git;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello git !");
-        //远程仓库修改
+        
     }
 }
